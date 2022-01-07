@@ -5,3 +5,5 @@ This is a sample website made as part of [*Learn Enough:tm: Git to Be Dangerous*
 After finishing *Learn Enough:tm:* Git to Be Dangerous you'll know enough Git to track changes in your projects, back up data, share your work with others, and collaborate with programmers and other users of Git.
 
 *While the above paragraphs are written word for word as part of an exercise in the tutorial, the LE tutorials really have helped me develop a decent level of technical sophistication in a short amount of time. Highly recommend!*
+
+For more information on Git, see the [official Git documentation](https://git-scm.com/doc). 
